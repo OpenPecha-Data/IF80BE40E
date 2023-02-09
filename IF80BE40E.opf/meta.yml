@@ -1,0 +1,16 @@
+id: IF80BE40E
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:19:30.599420
+last_modified: 2023-02-10 00:19:30.599523
+source_metadata:
+  title: 'MSV 7,00: Conclusion'
+  language: bo
+bases:
+  38DB:
+    base_file: 38DB.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

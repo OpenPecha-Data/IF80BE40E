@@ -1,0 +1,11 @@
+id: 9d4e9df77efc4d64911b5f5967671f5f
+annotation_type: index
+revision: '00001'
+annotations:
+  904b267110a84219a7bff1fee9eb9647:
+    base: 38DB.txt
+    Chapters:
+    - title: Conclusion
+      span:
+        start: 0
+        end: 76
